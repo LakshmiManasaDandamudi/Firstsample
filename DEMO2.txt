@@ -1,0 +1,9 @@
+This is my third file.
+
+workflow:
+          working copy->staging area->repository
+working copy: creating and editing file on your computer
+
+staging area:getting file for repository ( $git add filename.ext)
+
+repository:commit comd to save file at this point
